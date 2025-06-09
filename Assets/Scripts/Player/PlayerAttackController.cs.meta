@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8ab47e70fa82da047be797ea419267ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireAttackPrefab: {fileID: 8826165045764528741, guid: 9f8b03d3315390246a419e2456694308, type: 3}
+  - waterAttackPrefab: {fileID: 1430456874773355836, guid: 6224801a90543b14bb506d3048334c91, type: 3}
+  - earthAttackPrefab: {fileID: 4557069176028276256, guid: cebbcf0b265cbc24785221f983e8a74a, type: 3}
+  - airAttackPrefab: {fileID: 1787973388232362821, guid: 1d8b41be03e15a6459b6486db4ccd2db, type: 3}
+  - mudAttackPrefab: {instanceID: 0}
+  - steamAttackPrefab: {instanceID: 0}
+  - lavaAttackPrefab: {instanceID: 0}
+  - stormAttackPrefab: {instanceID: 0}
+  - attackSpawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
